@@ -1,0 +1,7 @@
+{
+  "name": "Qaraqalpaq Taxi",
+  "description": "Karakalpakstan districts inter-city taxi service. Organized, fast, and reliable travel between Nukus and all districts.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
